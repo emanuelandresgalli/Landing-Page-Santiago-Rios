@@ -1,8 +1,11 @@
+import AbautMe from "../Componentes/AbautMe";
 
 export default function Nosotros() {
   return (
-    <div>
+    <>
       
-    </div>
+      <AbautMe />
+ 
+    </>
   )
 }
