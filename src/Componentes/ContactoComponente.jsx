@@ -45,7 +45,7 @@ export default function ContactoComponente() {
                     </svg>
                     Contáctame
                 </h5>
-                <form ref={formRef} action="https://formspree.io/f/mwpeljql" method="POST" className="mb-6">
+                <form ref={formRef} action="https://formspree.io/f/mwpebvln" method="POST" className="mb-6">
                     <div className="mb-6">
                         <label htmlFor="name" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Tu Nombre</label>
                         <input name="name" type="text" id="name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder=" Nombre " required />
@@ -54,6 +54,11 @@ export default function ContactoComponente() {
                     <div className="mb-6">
                         <label htmlFor="email" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Tu correo</label>
                         <input name="email" type="email" id="email" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="nombre@gmail.com" required />
+                    </div>
+
+                    <div className="mb-6">
+                        <label htmlFor="phone" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Tu Teléfono</label>
+                        <input name="phone" type="tel" id="phone" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Tu número de teléfono" required />
                     </div>
 
                     <div className="mb-6">
