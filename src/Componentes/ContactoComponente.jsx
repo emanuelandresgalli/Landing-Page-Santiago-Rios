@@ -75,7 +75,7 @@ export default function ContactoComponente() {
                 </form>
 
                 <p className="mb-2 text-sm text-gray-500 dark:text-gray-400">
-                    <a href="mailto:emanuelandresgalli@gmail.com" className="hover:underline">santiagoriosarquitecto@gmail.com</a>
+                    <a href="mailto:riosarquitectura2014@gmail.com" className="hover:underline">riosarquitectura2014@gmail.com</a>
                 </p>
                 <p className="text-sm text-gray-500 dark:text-gray-400">
                     <a href="tel:+34631943224" className="hover:underline">+34 631 943 224</a>

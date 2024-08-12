@@ -8,7 +8,7 @@ export default function Footer() {
       <footer className="bg-white rounded-lg shadow m-4 dark:bg-gray-800">
   <div className="w-full mx-auto max-w-screen-xl p-4 flex flex-col md:flex-row md:items-center md:justify-between">
     <span className="text-sm text-gray-500 dark:text-gray-400 mb-3 md:mb-0">
-      © 2024 <a href="#" className="hover:underline">Santiago Rios Arquitecto™</a>.  Telefono: +34 631 943 224
+      © 2024 <a href="mailto:riosarquitectura2014@gmail.com" className="hover:underline">Santiago Rios Arquitecto™</a>.  Telefono: +34 631 943 224
     </span>
     <ul className="hidden  md:flex flex-col sm:flex-row items-center text-sm font-medium text-gray-500 dark:text-gray-400 space-y-2 sm:space-y-0 sm:space-x-4">
       <li>
