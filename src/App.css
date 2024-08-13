@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+
+
+button {
+  pointer-events: auto;
+  touch-action: manipulation;
+  z-index: 1000; 
+  position: relative; 
+} 
+
