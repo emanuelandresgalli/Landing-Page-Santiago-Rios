@@ -45,7 +45,5 @@
 button {
   pointer-events: auto;
   touch-action: manipulation;
-  z-index: 1000; 
-  position: relative; 
 } 
 

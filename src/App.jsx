@@ -12,6 +12,7 @@ import ReformasDeBaños from './Pages/ReformasDeBaños';
 import RenovacionDeCocinas from './Pages/RenovacionDeCocinas';
 import ReformasIntegrales from './Pages/ReformasIntegrales';
 import TransformacionesAMedida from './Pages/TransformacionesAMedida';
+import Instalaciones from './Pages/Instalaciones';
 
 
 
@@ -31,6 +32,7 @@ function App() {
       <Route path="/RenovacionDeCocinas" element={ <RenovacionDeCocinas />} ></Route>
       <Route path="/ReformasIntegrales" element={ <ReformasIntegrales />} ></Route>
       <Route path="/TransformacionesAMedida" element={ <TransformacionesAMedida />} ></Route>
+      <Route path="/Instalaciones" element={ <Instalaciones />} ></Route>
       </Routes>
 
       <Footer />
