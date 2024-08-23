@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import  { useEffect } from 'react';
 
 export default function Categorias() {
   useEffect(() => {
@@ -44,21 +44,21 @@ export default function Categorias() {
       <div className="relative h-56 overflow-hidden rounded-lg md:h-96">
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
           <img
-            src="https://i.ibb.co/1RRzBHM/Cocina-Webp.png"
+            src="https://i.ibb.co/6RHy4NQ/Cocina-Webp.webp"
             className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt="Item 1"
           />
         </div>
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
           <img
-            src="https://i.ibb.co/nBTbYg3/Living-Webp.png"
+            src="https://i.ibb.co/yFsYt1s/Living-Webp.webp"
             className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt="Item 2"
           />
         </div>
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
           <img
-            src="https://i.ibb.co/JQ7Xx78/Oficina-Webp.png"
+            src="https://i.ibb.co/GV1W1Vq/Oficina-Webp.webp"
             className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt="Item 3"
           />
