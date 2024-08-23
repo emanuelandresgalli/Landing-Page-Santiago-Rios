@@ -65,14 +65,14 @@ export default function Categorias() {
         </div>
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
           <img
-            src="https://images.pexels.com/photos/2253643/pexels-photo-2253643.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            src="https://i.ibb.co/D5W7XvD/Local.webp"
             className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt="Item 4"
           />
         </div>
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
           <img
-            src="https://images.pexels.com/photos/4119832/pexels-photo-4119832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            src="https://i.ibb.co/LYSKzxR/Comedor.webp"
             className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt="Item 5"
           />
