@@ -19,7 +19,7 @@ En el corazón de cada hogar, el baño es un espacio fundamental que debe combin
               <img
                 className="w-full rounded"
                 src="https://images.pexels.com/photos/6620861/pexels-photo-6620861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-                alt="office content 1"
+                alt="office content 1" loading="lazy"
               />
               <img
                 className="mt-4 w-full lg:mt-10 rounded"
@@ -49,7 +49,7 @@ En el corazón de cada hogar, el baño es un espacio fundamental que debe combin
               <img
                 className="w-full rounded"
                 src="https://images.pexels.com/photos/3718434/pexels-photo-3718434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-                alt="office content 1"
+                alt="office content 1" loading="lazy"
               />
               <img
                 className="mt-4 w-full lg:mt-10 rounded"
@@ -80,7 +80,7 @@ En el corazón de cada hogar, el baño es un espacio fundamental que debe combin
               <img
                 className="w-full rounded"
                 src="https://images.pexels.com/photos/5644353/pexels-photo-5644353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-                alt="office content 1"
+                alt="office content 1" loading="lazy"
               />
               <img
                 className="mt-4 w-full lg:mt-10 rounded"
@@ -111,7 +111,7 @@ En el corazón de cada hogar, el baño es un espacio fundamental que debe combin
               <img
                 className="mt-4 w-full lg:mt-10 rounded"
                 src="https://images.pexels.com/photos/19966797/pexels-photo-19966797/free-photo-of-mesa-pelo-piel-lampara.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-                alt="office content 1"
+                alt="office content 1" loading="lazy"
               />
               <img
                 className="mt-4 w-full lg:mt-10 rounded"
