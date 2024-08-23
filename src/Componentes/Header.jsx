@@ -42,7 +42,7 @@ vivienda?
               </Link>
             </div>
             <div className="hidden lg:mt-0 lg:col-span-5 lg:flex">
-              <img className="rounded-lg opacity-80" src="https://media.istockphoto.com/id/1086321280/photo/high-angle-above-top-view-cropped-collar-profession-occupation-lady-in-her-formalwear-shirt.jpg?b=1&s=612x612&w=0&k=20&c=IybTtCb_92JovP9q-s5td10M0l7wt7YGw959Nugdcbs=" alt="mockup"  />
+              <img className="rounded-lg opacity-80" src="https://i.ibb.co/X5Qg2zx/Tablero-webp.png" alt="tablero"  />
             </div>
           </div>
          

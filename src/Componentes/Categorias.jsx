@@ -44,21 +44,21 @@ export default function Categorias() {
       <div className="relative h-56 overflow-hidden rounded-lg md:h-96">
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
           <img
-            src="https://images.pexels.com/photos/5644353/pexels-photo-5644353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            src="https://i.ibb.co/1RRzBHM/Cocina-Webp.png"
             className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt="Item 1"
           />
         </div>
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
           <img
-            src="https://images.pexels.com/photos/24304750/pexels-photo-24304750/free-photo-of-sofa-en-sala-de-estar-moderna-con-ventanas-de-piso-a-techo.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            src="https://i.ibb.co/nBTbYg3/Living-Webp.png"
             className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt="Item 2"
           />
         </div>
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
           <img
-            src="https://images.pexels.com/photos/380768/pexels-photo-380768.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            src="https://i.ibb.co/JQ7Xx78/Oficina-Webp.png"
             className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt="Item 3"
           />
