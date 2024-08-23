@@ -3,7 +3,10 @@ import Navegacion from './src/Componentes/Navegacion';
 
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: [Navegacion ],
+  content: [
+    './src/Componentes/Navegacion.jsx',
+    'index.html',
+   ],
   theme: {
     extend: {},
   },
